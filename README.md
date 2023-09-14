@@ -1,8 +1,6 @@
 # 💫 About Me:
-I am a front-end developer in Istanbul.
-</br>
+<p>I am a front-end developer in Istanbul.</p>
 Among the key interests that add color to my life are taking photographs, reading books, and fishing. Designs that combine minimalism and 
-</br>
 functionality are not just aesthetics to me, but also a way of life.
 
 
