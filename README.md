@@ -1,6 +1,9 @@
 # 💫 About Me:
 I am a front-end developer in Istanbul.
-Among the key interests that add color to my life are taking photographs, reading books, and fishing. Designs that combine minimalism and functionality are not just aesthetics to me, but also a way of life.
+</br>
+Among the key interests that add color to my life are taking photographs, reading books, and fishing. Designs that combine minimalism and 
+</br>
+functionality are not just aesthetics to me, but also a way of life.
 
 
 ## 🌐 Socials:
