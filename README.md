@@ -1,6 +1,6 @@
 # 👨🏻‍💻 About Me:
 <p>
-I am a front-end developer in Istanbul.
+I am a software engineer in Istanbul.
 </br>
 </br>
 Among the key interests that add color to my life are taking photographs, reading books, and fishing. Designs that combine minimalism and 
